@@ -20,7 +20,7 @@ http benchmark tool to ran out your server bandwidth.
           target url (default "https://baidu.com")
 
 # LINUX:
-    wget https://github.com/xisvip/webBenchmark/releases/download/0.2/webBenchmark_linux_x64 -o webBenchmark_linux_x64
+    wget https://github.com/xosvip/webBenchmark/releases/download/0.2/webBenchmark_linux_x64 -o webBenchmark_linux_x64
     chmod +x webBenchmark_linux_x64
     ./webBenchmark_linux_x64 -c 32 -s https://target.url
 
